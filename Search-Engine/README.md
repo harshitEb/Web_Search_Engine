@@ -17,6 +17,6 @@ By this normalization score, we calculate the relevance of the links. Now, we di
 <br /> <br />
 
 Before running, make sure you have the required libraries installed.
-
+{sudo python3 -m nltk.downloader all}
 
 
